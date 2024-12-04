@@ -1,7 +1,7 @@
 <!-- navbar.md（导航_菜单） -->
 
 * 页面
-  * [首页](/)
+  * [博客首页](/)
 
 * 分类
   * [Java](/docs/java/README.md)
@@ -13,3 +13,6 @@
 
 * 读书
   * [TODO]()
+    
+* 关于
+  * [docsify](/docs/docsify/README.md)
