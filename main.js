@@ -1,5 +1,5 @@
 window.$docsify = {
-    name: 'Qing-Blog', // 文档标题，会显示在侧边栏顶部
+    name: 'Qing', // 文档标题，会显示在侧边栏顶部
     repo: 'liqingwang/liqingwang.github.io',
     maxLevel: 3,
     coverpage: 'docs/extra-page/cover.md',   // 封面

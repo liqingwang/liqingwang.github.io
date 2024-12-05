@@ -1,15 +1,7 @@
 <!-- summary.md（侧边栏_概要） -->
--   [Java](/docs/java/README.md)
-    -  [JVM](/docs/java/jvm/README.md "Java虚拟机")
-   
--   [AI]()
 
--   [数据结构与算法]()
+-   [搞事业](/docs/read/README.md)
 
--   [设计模式]()
+-   [学英语](/docs/read/README.md)
 
--   [系统架构]()
-
--   [项目]()
-
--   [docsify](/docs/docsify/README.md)
+-   [读书](/docs/read/README.md)
