@@ -1,4 +1,4 @@
-<!-- summary.md（侧边栏_概要） -->
+<!-- SIDEBER.md（侧边栏_概要） -->
 
 -   搞事业
 
@@ -10,5 +10,3 @@
 -   读书
     -   [抑郁的力量-泉谷闲示](/docs/read/the-power-of-depression/README.md)
         -   [1.我是真的抑郁了吗](/docs/read/the-power-of-depression/chapter_01.md)
-
--   关于
